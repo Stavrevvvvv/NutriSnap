@@ -19,6 +19,33 @@ Screenshots of the code:
 
 --> US-02
 
+
+Prompt 1: 
+
+I need to implement a requirement based on User Stories for a Recipe Management app. The user story is: As a user, I want to search for recipes by name or ingredient so I can quickly find what I need. First, create a search input and button that allows users to search recipes by name or ingredient. Also, display the filtered results below the search bar.
+
+Prompt 2:
+
+Now, i need to implement the search function. That is, a function that takes an array of recipe objects and a search term, and returns recipes where the name or ingredient includes the search term.
+
+Prompt 3:
+
+The user needs to be able to undo the search. Add a reset button that clears the search input and shows all recipes again. Display a message: "Search reset. Showing all recipes."
+
+Prompt 4:
+
+After a search or undo action, show a temporary confirmation message below the search bar.
+
+Prompt 5:
+
+We need to ensure that all data must be saved correctly and remain accessible afterward. Thus, store the list of recipes in localStorage and load it when the page reloads.
+
+Screenshot of the final code:
+
+![image](image.png)
+![image](image-1.png)
+
+
 --> US-03
 
 --> US-04
