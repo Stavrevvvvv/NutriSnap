@@ -68,6 +68,24 @@ Prompts:
 
 --> US-04
 
+Prompts:
+1. Add a delete button next to each recipe (or habit).
+
+2. When clicked, remove that recipe/habit from the list and localStorage.
+
+3. Save the deleted item in case the user wants to undo.
+
+4. Provide an undo button that restores the most recently deleted item.
+
+5. Show a temporary message confirming the deletion or undo action.
+
+6. Ensure changes persist in localStorage.
+
+![image](https://github.com/user-attachments/assets/b76fa982-43b4-433f-96e3-dfe1e628affb)
+![image](https://github.com/user-attachments/assets/924195bb-94ea-4aa7-99bd-cf64617d6558)
+![image](https://github.com/user-attachments/assets/f034c648-c067-4a57-8886-aa068b3336a0)
+
+
 
 # Lessons Learned:
 
